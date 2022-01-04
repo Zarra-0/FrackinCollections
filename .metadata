@@ -1,0 +1,10 @@
+{
+  "author" : "Kukagres",
+  "description" : "Frackin' Collections",
+  "friendlyName" : "Frackin' Collections",
+  "includes" : ["FrackinUniverse"],
+  "name" : "FrackinCollections",
+  "requires" : [],
+  "tags" : "Crafting and Building|Miscellaneous|Planets and Environments|NPCs and Creatures|Weapons|Quests|Dungeons|Ships|Species|User Interface|Furniture and Objects|Food and Farming|Mechanics|Vehicles and Mounts|Armor and Clothes",
+  "version" : "1.0.002"
+}

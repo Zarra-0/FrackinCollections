@@ -1,0 +1,23 @@
+{
+  "name" : "fu_isotopes",
+  "title" : "[FU] Radioactive",
+  "type" : "item",
+
+  "collectables" : {
+    "deuterium" : { "order" : 1, "item" : "deuterium" },
+    "enrichedplutonium" : { "order" : 2, "item" : "enrichedplutonium" },
+    "enricheduranium" : { "order" : 3, "item" : "enricheduranium" },
+    "neptuniumore" : { "order" : 4, "item" : "neptuniumore" },
+    "neptuniumrod" : { "order" : 5, "item" : "neptuniumrod" },
+    "plutoniumore" : { "order" : 6, "item" : "plutoniumore" },
+    "plutoniumrod" : { "order" : 7, "item" : "plutoniumrod" },
+    "solariumore" : { "order" : 8, "item" : "solariumore" },
+    "solariumstar" : { "order" : 9, "item" : "solariumstar" },
+    "thoriumore" : { "order" : 10, "item" : "thoriumore" },
+    "thoriumrod" : { "order" : 11, "item" : "thoriumrod" },
+    "tritium" : { "order" : 12, "item" : "tritium" },
+    "ultronium" : { "order" : 13, "item" : "ultronium" },
+    "uraniumore" : { "order" : 14, "item" : "uraniumore" },
+    "uraniumrod" : { "order" : 15, "item" : "uraniumrod" }    
+    }
+}

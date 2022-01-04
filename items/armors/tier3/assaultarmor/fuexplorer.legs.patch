@@ -1,0 +1,7 @@
+[
+    [
+        { "op": "test", "path": "/collectablesOnPickup", "inverse" : true },
+        { "op": "add", "path": "/collectablesOnPickup", "value": {} }
+    ],
+    [{ "op": "add", "path": "/collectablesOnPickup/fu_armortank", "value": "fuexplorerlegs" }]
+]

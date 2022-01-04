@@ -1,0 +1,6 @@
+[
+    [
+        { "op": "test", "path": "/baseParameters/captureCollectables", "inverse" : true },
+        { "op": "add", "path": "/baseParameters/captureCollectables", "value": {"fu_monster" : "furaptor3"}}
+    ]
+]
